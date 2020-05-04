@@ -1,4 +1,6 @@
 # notify-atcoder-submittion-to-slack-var-1
+google apps script を使用
+
 5分おきに実行することで、登録ユーザーが Atcoder にコードを提出すると slack に通知が来る
 
 slack のチャンネルでメンションを付けて呼ぶことで、コマンドを打つことができる。
